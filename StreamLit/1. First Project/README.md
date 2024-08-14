@@ -1,4 +1,4 @@
-### My First Streamlit Calcultaor 
+### My First Streamlit Project 
 
 It is my first streamlit Project . It is a calculator Which can perform basic arithmetic operations on two numbers .  
 
