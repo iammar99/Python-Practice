@@ -17,3 +17,4 @@ This Folder Contain Practice of Streamlit Projects like
 This Folder Contain Practice of Simple Projects like 
 
 - Calculator
+- Series Calculator
