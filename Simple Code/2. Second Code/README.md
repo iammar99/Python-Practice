@@ -1,31 +1,22 @@
-# Python Day 1
+# Python Day 2
 
 ## Things I learned 
 
 - How to format text
-- How to check whether a charachter in a string is a digit or not 
-- How to take input 
+- How to check whether a charachter in a string is a char or not 
 - how to convert string into number 
-- For loop
-- If Conditions   
+- while loop
+- How to create a function
 
 ## What I created 
 
-I created 2 calculators . Which perform basic Arithmatic operations like plus , minus , multiply and divide .
-Both calculator work same but with different functions .
+I created a function which takes a number as input and return the following series as output 
 
-### Here is the differnece
-
-- #### First Calculator 
-
-  - Take input numbers and operator in different inputs
-  - Solve Without FOR loop as all operators and operands are in different variable
+"1+1/11+1/2+1/3+1/4!..........."
 
 
+### Here's the steps you can follow to run the code
 
-- #### Second Calculator 
-
-  - Take input numbers and operator in Same input
-  - Solve With FOR loop as all operators and operands are in same variable
-
-
+- clone the repo 
+- Open the folder in VS code
+- Run the command "python program.py"

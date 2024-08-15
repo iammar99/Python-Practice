@@ -29,3 +29,9 @@ Both calculator work same but with different functions .
   - Solve With FOR loop as all operators and operands are in same variable
 
 
+
+### Here's the steps you can follow to run the code
+
+- clone the repo 
+- Open the folder in VS code
+- Run the command "python program.py"
