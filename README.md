@@ -18,3 +18,4 @@ This Folder Contain Practice of Simple Projects like
 
 - Calculator
 - Series Calculator
+- Number Checker
