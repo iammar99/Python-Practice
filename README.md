@@ -10,6 +10,7 @@ This Folder Contain Practice of Streamlit Projects like
 
 - Calculator
 - Text Utilities
+- Weather App
 
 
 ## Simple Code
