@@ -124,7 +124,8 @@ if selected_country:
     st.write(f"## Country :- **{selected_country}**")
 
 
-api_key = st.secrets["claude"]["api_key"]
+# api_key = st.secrets["open_weather_api_key"]
+api_key = "9e1f88e6577ec9ef674ca02442e931ed"
 city = selected_city
 weather = get_weather(api_key, city)
 
@@ -146,7 +147,7 @@ st.markdown(
     background-attachment: fixed;
     height: 37vh;
     width: 100%;
-    padding: 20px;
+    padding: 58px 25px;
     color: white;
     border-radius: 20px;
 }}
@@ -171,8 +172,8 @@ p{{
 # Create a div with the custom CSS class
 st.markdown(
     f"""
-    <div class="background">
         <h1>Welcome to My Weather App</h1>
+    <div class="background">
         <div class="row">
             <div class="col">
                 <h2>{weather["city"]}</h2>
