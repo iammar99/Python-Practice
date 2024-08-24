@@ -124,8 +124,7 @@ if selected_country:
     st.write(f"## Country :- **{selected_country}**")
 
 
-# api_key = st.secrets["open_weather_api_key"]
-api_key = "9e1f88e6577ec9ef674ca02442e931ed"
+api_key = st.secrets["open_weather_api_key"]
 city = selected_city
 weather = get_weather(api_key, city)
 
