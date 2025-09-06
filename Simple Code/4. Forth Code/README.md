@@ -12,7 +12,12 @@
 
 ## What I created 
 
-Write a program that take input from the user and tells whether number is even or odd and is it a prime number or not
+
+                        *
+                       * *
+                      * * *
+                     * * * *
+                    * * * * *
 
 
 ### Here's the steps you can follow to run the code
